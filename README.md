@@ -1,5 +1,7 @@
 # Scribely — AI Handwriting Scanner & Summarizer
 
+![Scribely cover](./assets/images/ui/Scribely%20AI%20Handwriting%20App%20Showcase.png)
+
 Scribely is a cross-platform mobile application that converts photos of **English handwritten text** into editable digital text. Users can copy or listen to the extracted text, optionally generate an AI summary with key points, listen to the summary, and revisit previous scans from their personal history.
 
 > **Project status:** Architecture and implementation blueprint. The folder structure and endpoints below are proposed conventions; adapt them as implementation evolves.
