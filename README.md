@@ -1008,3 +1008,9 @@ Only after the MVP is reliable, consider:
 Start with **React Native + Expo + TypeScript**, **FastAPI**, **Supabase Auth/PostgreSQL/Storage**, **Azure AI Document Intelligence for handwriting OCR**, one LLM provider for summaries, and **Expo Speech** for playback.
 
 Keep provider integrations behind backend service interfaces, keep the image bucket private, enforce per-user ownership on every request, and build the complete scan-to-text flow before adding summarization. This provides a maintainable foundation without overengineering the first release.
+
+## Developer details
+
+- **Name:** Shahbaz Ali
+- **Email:** [shahbazalidm@gmail.com](mailto:shahbazalidm@gmail.com)
+- **LinkedIn:** [linkedin.com/in/shahbazali111](https://www.linkedin.com/in/shahbazali111/)
